@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BD642&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%E2%98%95+Backend+Dev+in+the+making)](https://git.io/typing-svg)
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMydm1pNjlncjVyOW92NnRlemN0dHN2ano5czVzdWpxZjB3eWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Looney Tunes GIF by Looney Tunes World of Mayhem" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
 - 🔭 I’m currently working on Datesfruits
 
 - 🌱 I’m currently learning **Express.js, React, Python**
