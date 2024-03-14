@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=5029&pause=1000&color=0BD642&random=true&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%E2%98%95)](https://git.io/typing-svg)
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hzcGJ5czQ4cWJ2amtlNzhxNTdxMmJxYW5yanVvOWp5OHo0ajllMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IsNuZjQnM6z04/giphy.gif" alt="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hzcGJ5czQ4cWJ2amtlNzhxNTdxMmJxYW5yanVvOWp5OHo0ajllMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IsNuZjQnM6z04/giphy.gif" class="transparent shrinkToFit" width="189" height="106">
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=5029&pause=1000&color=0BD642&random=true&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%E2%98%95)](https://git.io/typing-svg) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRkMWR0NWdtcW92eXV5Z203NmY4djc2bXQ1ZjdlbXRnYWhnZ2p4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ni9I852dCEiK3JH7Cu/giphy.gif" alt="Happy Selena Gomez GIF" style="width: 322.313px; height: 573px; left: 0px; top: 0px; opacity: 0;">
 
 <img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106"><img src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" alt="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" class="transparent shrinkToFit" width="106" height="106">
 
