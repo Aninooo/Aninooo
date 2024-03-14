@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=5029&pause=1000&color=0BD642&random=true&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%E2%98%95)](https://git.io/typing-svg)
 
 
-<img src="<img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106">
+<img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106">
 
 - 🔭 I’m currently working on **Datesfruits**
 
