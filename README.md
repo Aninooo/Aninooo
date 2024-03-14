@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=5029&pause=1000&color=0BD642&random=true&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%E2%98%95)](https://git.io/typing-svg)
 
 
-<img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMydm1pNjlncjVyOW92NnRlemN0dHN2ano5czVzdWpxZjB3eWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Looney Tunes GIF by Looney Tunes World of Mayhem" style="width: 600px; height: 400px; left: 0px; top: 0px; opacity: 0;](https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif)">
+<img src="[[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMydm1pNjlncjVyOW92NnRlemN0dHN2ano5czVzdWpxZjB3eWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Looney Tunes GIF by Looney Tunes World of Mayhem" style="width: 600px; height: 400px; left: 0px; top: 0px; opacity: 0;](https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif)](https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif)">
 
 - 🔭 I’m currently working on **Datesfruits**
 
