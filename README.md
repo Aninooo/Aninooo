@@ -6,7 +6,7 @@
 - 📫 How to reach me **bryanlomerioanino@gmail.com**
 
 - ⚡ Fun fact **Overthinker**
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMydm1pNjlncjVyOW92NnRlemN0dHN2ano5czVzdWpxZjB3eWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Looney Tunes GIF by Looney Tunes World of Mayhem" style="width: 100px; height: 20px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMydm1pNjlncjVyOW92NnRlemN0dHN2ano5czVzdWpxZjB3eWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Looney Tunes GIF by Looney Tunes World of Mayhem" style="width: 600px; height: 400px; left: 0px; top: 0px; opacity: 0;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
