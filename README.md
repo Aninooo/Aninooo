@@ -24,4 +24,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aninooo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aninooo" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aninooo&" alt="aninooo" /></p><img src="https://media.tenor.com/96BCAzOYyOkAAAAi/punching.gif" width="500" height="300" alt="Punching Sticker - Punching Stickers" style="max-width: 522px; background-color: unset;">	
+<p><img src="https://media.tenor.com/96BCAzOYyOkAAAAi/punching.gif" width="300" height="230" alt="Punching Sticker - Punching Stickers" style="max-width: 522px; background-color: unset;">	
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aninooo&" alt="aninooo" /></p>
