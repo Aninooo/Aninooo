@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=5029&pause=1000&color=0BD642&random=true&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%E2%98%95)](https://git.io/typing-svg) 
+<img src="https://media.tenor.com/96BCAzOYyOkAAAAi/punching.gif" width="290" height="50" alt="Punching Sticker - Punching Stickers" style="max-width: 522px; background-color: unset;">	[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=5029&pause=1000&color=0BD642&random=true&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%E2%98%95)](https://git.io/typing-svg) 
 
 <img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106"><img src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" alt="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" class="transparent shrinkToFit" width="106" height="106"><img src="https://media.tenor.com/Oza7xqkFY2gAAAAi/buggy-buggy-dancing.gif" width="88" height="106" alt="Buggy Buggy Dancing Sticker - Buggy Buggy Dancing One Piece Stickers" style="max-width: 522px; background-color: unset;"><img src="https://media.tenor.com/mGCTObycDigAAAAi/one-piece.gif" width="88" height="106" alt="One Piece Sticker - One Piece Stickers" style="max-width: 280px; background-color: unset;">
 
@@ -11,7 +11,7 @@
 - ⚡ Fun fact **Overthinker**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5029&pause=1000&color=0BD642&repeat=false&random=true&width=435&lines=Connect+with+me%3A)](https://git.io/typing-svg)
-<img src="https://media.tenor.com/96BCAzOYyOkAAAAi/punching.gif" width="200" height="230" alt="Punching Sticker - Punching Stickers" style="max-width: 522px; background-color: unset;">	<p align="left">
+<p align="left">
 <a href="https://linkedin.com/in/bryan-lomerio-26562123a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-lomerio-26562123a" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/brylomean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/brylomean" height="30" width="40" /></a>
 <a href="https://instagram.com/aninotoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aninotoff" height="30" width="40" /></a>
