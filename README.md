@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **https://www.facebook.com/datesfruitphilippines/**
 
-- 🌱 I’m currently learning **Express.js, React, Python, React Native**
+- 🌱 I’m currently learning **Express.js, React**
 
 - 📫 How to reach me **bryanlomerioanino@gmail.com**
 
