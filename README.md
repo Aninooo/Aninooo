@@ -8,7 +8,7 @@
 - 📫 How to reach me **bryanlomerioanino@gmail.com**
 
 - ⚡ Fun fact **Overthinker**
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMydm1pNjlncjVyOW92NnRlemN0dHN2ano5czVzdWpxZjB3eWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Looney Tunes GIF by Looney Tunes World of Mayhem" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27BA4A&random=false&width=435&lines=Connect+with+me%3A+)](https://git.io/typing-svg)
 <p align="left">
