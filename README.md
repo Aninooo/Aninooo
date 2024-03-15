@@ -1,14 +1,13 @@
 <img src="https://media.tenor.com/96BCAzOYyOkAAAAi/punching.gif" width="230" height="170" alt="Punching Sticker - Punching Stickers" style="max-width: 522px; background-color: unset;">	[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0EBA09&random=false&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F)](https://git.io/typing-svg)
 
-<img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106">
-
 - 🔭 I’m currently working on **Datesfruits**
 
 - 🌱 I’m currently learning **Express.js, React**
 
 - 📫 How to reach me **bryanlomerioanino@gmail.com**
 
-- ⚡ Fun fact **Overthinker**
+- ⚡ Fun fact **Overthinker** <img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106">
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5029&pause=1000&color=0BD642&repeat=false&random=true&width=435&lines=Connect+with+me%3A)](https://git.io/typing-svg)
 <p align="left">
