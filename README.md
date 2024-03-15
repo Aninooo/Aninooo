@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aninooo&" alt="aninooo" /></p>
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
