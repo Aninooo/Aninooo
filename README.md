@@ -1,4 +1,7 @@
-<img src="https://media.tenor.com/96BCAzOYyOkAAAAi/punching.gif" width="230" height="170" alt="Punching Sticker - Punching Stickers" style="max-width: 522px; background-color: unset;">	[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0EBA09&random=false&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=5029&pause=1000&color=0BD642&random=true&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%E2%98%95)](https://git.io/typing-svg)
+
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMydm1pNjlncjVyOW92NnRlemN0dHN2ano5czVzdWpxZjB3eWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Looney Tunes GIF by Looney Tunes World of Mayhem" style="width: 600px; height: 400px; left: 0px; top: 0px; opacity: 0;">
 
 - 🔭 I’m currently working on **Datesfruits**
 
@@ -6,9 +9,8 @@
 
 - 📫 How to reach me **bryanlomerioanino@gmail.com**
 
-- ⚡ Fun fact **Overthinker** 
+- ⚡ Fun fact **Overthinker**
 
-<img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5029&pause=1000&color=0BD642&repeat=false&random=true&width=435&lines=Connect+with+me%3A)](https://git.io/typing-svg)
 <p align="left">
 <a href="https://linkedin.com/in/bryan-lomerio-26562123a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-lomerio-26562123a" height="30" width="40" /></a>
@@ -24,4 +26,4 @@
 <p><a href="https://www.buymeacoffee.com/aninooo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aninooo" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aninooo&" alt="aninooo" /></p>
-
+		
