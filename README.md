@@ -6,9 +6,9 @@
 
 - 📫 How to reach me **bryanlomerioanino@gmail.com**
 
-- ⚡ Fun fact **Overthinker** <img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106">
+- ⚡ Fun fact **Overthinker** 
 
-
+<img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5029&pause=1000&color=0BD642&repeat=false&random=true&width=435&lines=Connect+with+me%3A)](https://git.io/typing-svg)
 <p align="left">
 <a href="https://linkedin.com/in/bryan-lomerio-26562123a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-lomerio-26562123a" height="30" width="40" /></a>
