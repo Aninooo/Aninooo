@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bryan Lomerio</h1>
-<h3 align="center">A passionate Junior Backend developer from Philippines</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=5029&pause=1000&color=0BD642&random=true&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%E2%98%95)](https://git.io/typing-svg)
+
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMydm1pNjlncjVyOW92NnRlemN0dHN2ano5czVzdWpxZjB3eWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Looney Tunes GIF by Looney Tunes World of Mayhem" style="width: 600px; height: 400px; left: 0px; top: 0px; opacity: 0;">
 
 - 🔭 I’m currently working on **https://www.facebook.com/datesfruitphilippines/**
 
@@ -24,8 +26,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aninooo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aninooo" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aninooo&show_icons=true&locale=en&layout=compact" alt="aninooo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aninooo&" alt="aninooo" /></p>
 
