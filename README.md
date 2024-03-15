@@ -8,6 +8,7 @@
 - 📫 How to reach me **bryanlomerioanino@gmail.com**
 
 - ⚡ Fun fact **Overthinker**
+<img data-target="animated-image.replacedImage" alt="vox_art2.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/CptRainy/CptRainy/raw/main/assets/vox_art2.gif" height="200" style="display: block; opacity: 1;">
 
 <img src="https://c.tenor.com/dnfJcln1SwoAAAAC/tenor.gif" alt="">
 
