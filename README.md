@@ -10,8 +10,8 @@
 - 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:ap:fecb690d-7cfc-43fe-9af3-0d4daeac0b64](https://acrobat.adobe.com/id/urn:aaid:sc:ap:fecb690d-7cfc-43fe-9af3-0d4daeac0b64)
 
 - ⚡ Fun fact **Overthinker**
-
-<h3 align="left">Connect with me:</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5029&pause=1000&color=0BD642&repeat=false&random=true&width=435&lines=Connect+with+me%3A)](https://git.io/typing-svg)
+<p align="left">
 <p align="left">
 <a href="https://linkedin.com/in/bryan-lomerio-26562123a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-lomerio-26562123a" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/brylomean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/brylomean" height="30" width="40" /></a>
