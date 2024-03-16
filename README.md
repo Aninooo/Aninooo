@@ -10,7 +10,8 @@
 
 - ⚡ Fun fact **Overthinker**
 
-<img src="https://c.tenor.com/dnfJcln1SwoAAAAC/tenor.gif" alt="">
+<img src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" alt="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" class="transparent shrinkToFit" width="106" height="106"><img src="https://media.tenor.com/Oza7xqkFY2gAAAAi/buggy-buggy-dancing.gif" width="88" height="106" alt="Buggy Buggy Dancing Sticker - Buggy Buggy Dancing One Piece Stickers" style="max-width: 522px; background-color: unset;"><img src="https://media.tenor.com/mGCTObycDigAAAAi/one-piece.gif" width="88" height="106" alt="One Piece Sticker - One Piece Stickers" style="max-width: 280px; background-color: unset;">
+<img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27BA4A&random=false&width=435&lines=Connect+with+me%3A+)](https://git.io/typing-svg)
 <p align="left">
