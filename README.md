@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **https://www.facebook.com/datesfruitphilippines/**
+- 🔭 I’m currently working on **[Dates Fruit Ph](https://www.facebook.com/datesfruitphilippines)**
 
 - 🌱 I’m currently learning **Express.js, React, Python, React Native**
 
