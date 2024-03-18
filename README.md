@@ -1,4 +1,3 @@
-(https://tenor.com/view/coding-gif-25183725)]
 <h1 align="center">Hi 👋, I'm Bryan Lomerio</h1>
 <h3 align="center">A passionate Backend developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
