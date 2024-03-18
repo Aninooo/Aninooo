@@ -8,8 +8,7 @@
 
 - ⚡ Fun fact **Overthinker**
 
-<img src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" alt="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" class="transparent shrinkToFit" width="106" height="106"><img src="https://media.tenor.com/Oza7xqkFY2gAAAAi/buggy-buggy-dancing.gif" width="88" height="106" alt="Buggy Buggy Dancing Sticker - Buggy Buggy Dancing One Piece Stickers" style="max-width: 522px; background-color: unset;"><img src="https://media.tenor.com/mGCTObycDigAAAAi/one-piece.gif" width="88" height="106" alt="One Piece Sticker - One Piece Stickers" style="max-width: 280px; background-color: unset;">
-<img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bryan-lomerio-26562123a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-lomerio-26562123a" height="30" width="40" /></a>
