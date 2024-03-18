@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **Overthinker**
 
+<img width="540" height="304" class="img-responsive" src="https://giffiles.alphacoders.com/220/220417.gif" alt="Anime One Piece Gif" title="Anime One Piece Gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bryan-lomerio-26562123a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-lomerio-26562123a" height="30" width="40" /></a>
