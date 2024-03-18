@@ -8,8 +8,6 @@
 
 - ⚡ Fun fact **Overthinker**
 
-![14-145835_nico-robin-png-one-piece-nico-robin-transparent](https://github.com/Aninooo/Aninooo/assets/102351612/3c39b91d-5335-4647-ac92-e2bfd1303850)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bryan-lomerio-26562123a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-lomerio-26562123a" height="30" width="40" /></a>
