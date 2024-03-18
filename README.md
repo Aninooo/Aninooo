@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bryan Lomerio</h1>
 <h3 align="center">A passionate Backend developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMydm1pNjlncjVyOW92NnRlemN0dHN2ano5czVzdWpxZjB3eWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Looney Tunes GIF by Looney Tunes World of Mayhem" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMydm1pNjlncjVyOW92NnRlemN0dHN2ano5czVzdWpxZjB3eWljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="[Coding Looney Tunes GIF by Looney Tunes World of Mayhem](https://giffiles.alphacoders.com/220/220417.gif)" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aninooo&label=Profile%20views&color=0e75b6&style=flat" alt="aninooo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aninooo" alt="aninooo" /></a> </p>
 
 
 - 🔭 I’m currently working on **[Dates Fruit Ph](https://www.facebook.com/datesfruitphilippines)**
