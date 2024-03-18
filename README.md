@@ -7,9 +7,8 @@
 - 📫 How to reach me **bryanlomerioanino@gmail.com**
 
 - ⚡ Fun fact **Overthinker**
-
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://www.pngfind.com/pngs/m/14-145835_nico-robin-png-one-piece-nico-robin-transparent.png)"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 <h3 align="left">Connect with me:</h3>
