@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **Overthinker**
 
-<img src= "[[https://www.pngwing.com/en/free-png-nxgqe](https://www.pngwing.com/en/free-png-nxgqe)](https://www.pngfind.com/pngs/m/14-145835_nico-robin-png-one-piece-nico-robin-transparent.png)">
+![14-145835_nico-robin-png-one-piece-nico-robin-transparent](https://github.com/Aninooo/Aninooo/assets/102351612/3c39b91d-5335-4647-ac92-e2bfd1303850)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
