@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Junior Backend developer from Philippines</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **https://www.facebook.com/datesfruitphilippines/**
+  
+- 🔭 I’m currently working on **[Dates Fruit Ph](https://www.facebook.com/datesfruitphilippines)**
 
 - 🌱 I’m currently learning **Express.js, React, Python, React Native**
 
@@ -27,4 +27,5 @@
 <p><a href="https://www.buymeacoffee.com/aninooo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aninooo" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aninooo&" alt="aninooo" /></p>
-
+### 😂 Random Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
