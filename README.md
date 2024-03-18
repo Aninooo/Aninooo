@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **bryanlomerioanino@gmail.com**
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:ap:fecb690d-7cfc-43fe-9af3-0d4daeac0b64](https://acrobat.adobe.com/id/urn:aaid:sc:ap:fecb690d-7cfc-43fe-9af3-0d4daeac0b64)
-
 - ⚡ Fun fact **Overthinker**
 
 <h3 align="left">Connect with me:</h3>
