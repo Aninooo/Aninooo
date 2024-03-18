@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bryan Lomerio</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=5029&pause=1000&color=0BD642&random=true&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%E2%98%95)](https://git.io/typing-svg)
 <h3 align="center">A passionate Junior Backend developer from Philippines</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
