@@ -7,8 +7,9 @@
 - 📫 How to reach me **bryanlomerioanino@gmail.com**
 
 - ⚡ Fun fact **Overthinker**
+
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif"](http://sobakodetortuga.tumblr.com/post/69018995266)  />
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://64.media.tumblr.com/c52db0b17fe8810395036f2b4f8a6d6a/tumblr_mxb2j294xo1r3maj7o1_500.gifv)"  />
 </div>
 
 <h3 align="left">Connect with me:</h3>
