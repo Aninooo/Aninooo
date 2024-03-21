@@ -6,7 +6,7 @@ I'm a passionate Computer Science student with a keen interest in programming, c
   
 - 🔭 I’m currently working on **[Dates Fruit Ph](https://www.facebook.com/datesfruitphilippines)**
 
-- 🌱 I’m currently learning **Express.js, React, Python, React Native**
+- 🌱 I’m currently learning **Tailwind, React js**
 
 - 📫 How to reach me **bryanlomerioanino@gmail.com**
 
