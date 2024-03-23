@@ -1,6 +1,6 @@
 <img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=5029&pause=1000&color=0BD642&random=true&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%E2%98%95)](https://git.io/typing-svg)
 <h3 align="center">A passionate Junior Backend developer from Philippines</h3>
-I'm a passionate Computer Science student with a keen interest in programming, cybersecurity, and software engineering. Currently, I'm exploring various programming languages and tools to expand my skill set and deepen my understanding of computer science concepts.
+As an enthusiastic practitioner in the field of Computer Science, I am deeply engrossed in programming, cybersecurity, and software engineering. My journey involves continuous exploration of diverse programming languages and tools to broaden my skill set and fortify my grasp on computer science concepts.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
   
