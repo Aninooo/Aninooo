@@ -3,6 +3,8 @@
 I love diving into computer science! I enjoy programming, cybersecurity, and software engineering. I'm always learning new languages and tools to improve my skills.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- Link to my Portfolio **[My portfolio](lomerio.cloud)**
   
 - 🔭 I’m currently working on **[Dates Fruit Ph](https://www.facebook.com/datesfruitphilippines)**
 
