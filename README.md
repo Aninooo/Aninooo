@@ -6,7 +6,7 @@ I love diving into computer science! I enjoy programming, cybersecurity, and sof
 
 - Link to my Portfolio **[My portfolio](lomerio.cloud)**
   
-- 🔭 I’m currently working on **[Dates Fruit PH]([https://www.lomerio.cloud/home](https://www.facebook.com/datesfruitphilippines))**
+- 🔭 I’m currently working on **[Dates Fruit PH](https://www.facebook.com/datesfruitphilippines)**
 
 - 🌱 I’m currently learning **Tailwind, React js**
 
