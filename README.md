@@ -1,4 +1,4 @@
-                                                                                                                                                                                               
+![image](https://github.com/Aninooo/Aninooo/assets/102351612/a95a950d-da11-4a20-ac7d-26ed9a3ef3a2)                                                                                                                                                                                               
   <img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=5029&pause=1000&color=0BD642&random=true&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%E2%98%95)](https://git.io/typing-svg)
 <h3 align="center">-- A passionate Junior Backend developer from Philippines --</h3>
 I love diving into computer science! I enjoy programming, cybersecurity, and software engineering. I'm always learning new languages and tools to improve my skills.
@@ -7,7 +7,7 @@ I love diving into computer science! I enjoy programming, cybersecurity, and sof
 
 - My **[Portfolio](https://www.lomerio.cloud/home)**
   
-- 🔭 I’m currently working on **[Dates Fruit PH](https://www.facebook.com/datesfruitphilippines) and 1568 Realty**
+- 🔭 I’m currently working on **[Dates Fruit PH]([https://www.facebook.com/datesfruitphilippines](https://www.datesfruitph.com/?fbclid=IwAR3fDxde1zMPaVwTeej7GEK_4KymNzhGwTMn0CpVRdtRcpMXXDa5H8oveXE_aem_AcVbgDC_PoOQGO-_xnxDKNVkIn252z6ALE2dcaL5J1Y4aNs7nlQoRiRzzSVGKJ1Sx7J82EHTAoksHUqNYLc3G7-g)) and 1568 Realty**
 
 - 🌱 I’m currently learning **Tailwind, React js**
 
