@@ -7,7 +7,7 @@ I love diving into computer science! I enjoy programming, cybersecurity, and sof
 
 - My **[Portfolio](https://www.lomerio.cloud/home)**
   
-- 🔭 I’m currently working on **[Dates Fruit PH]([https://www.facebook.com/datesfruitphilippines](https://www.datesfruitph.com/?fbclid=IwAR3fDxde1zMPaVwTeej7GEK_4KymNzhGwTMn0CpVRdtRcpMXXDa5H8oveXE_aem_AcVbgDC_PoOQGO-_xnxDKNVkIn252z6ALE2dcaL5J1Y4aNs7nlQoRiRzzSVGKJ1Sx7J82EHTAoksHUqNYLc3G7-g)) and 1568 Realty**
+- 🔭 I’m currently working on **[Dates Fruit PH]([[https://www.facebook.com/datesfruitphilippines](https://www.datesfruitph.com/?fbclid=IwAR3fDxde1zMPaVwTeej7GEK_4KymNzhGwTMn0CpVRdtRcpMXXDa5H8oveXE_aem_AcVbgDC_PoOQGO-_xnxDKNVkIn252z6ALE2dcaL5J1Y4aNs7nlQoRiRzzSVGKJ1Sx7J82EHTAoksHUqNYLc3G7-g)](https://www.datesfruitph.com/?fbclid=IwAR3fDxde1zMPaVwTeej7GEK_4KymNzhGwTMn0CpVRdtRcpMXXDa5H8oveXE_aem_AcVbgDC_PoOQGO-_xnxDKNVkIn252z6ALE2dcaL5J1Y4aNs7nlQoRiRzzSVGKJ1Sx7J82EHTAoksHUqNYLc3G7-g)) and 1568 Realty**
 
 - 🌱 I’m currently learning **Tailwind, React js**
 
