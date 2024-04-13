@@ -5,7 +5,7 @@ I love diving into computer science! I enjoy programming, cybersecurity, and sof
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- My **[Portfolio](https://www.lomerio.cloud/home)**
+- My **[Portfolio](https://www.lomerio.cloud)**
   
 - 🔭 I’m currently working on **[Dates Fruit PH](https://www.datesfruitph.com/?fbclid=IwAR3fDxde1zMPaVwTeej7GEK_4KymNzhGwTMn0CpVRdtRcpMXXDa5H8oveXE_aem_AcVbgDC_PoOQGO-_xnxDKNVkIn252z6ALE2dcaL5J1Y4aNs7nlQoRiRzzSVGKJ1Sx7J82EHTAoksHUqNYLc3G7-g) and 1568 Realty**
 
