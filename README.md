@@ -1,6 +1,6 @@
                                                                                                                                                                                         
   <img src="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" alt="https://media.tenor.com/-L2F_aJcOHsAAAAi/tony-chopper-one-piece.gif" class="transparent shrinkToFit" width="88" height="106"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=5029&pause=1000&color=0BD642&random=true&width=435&lines=Hi%2C+I'm+Bryan+Lomerio%E2%98%95)](https://git.io/typing-svg)
-<h3 align="center">-- Hi! I'm a curious developer who loves exploring algorithms and JavaScript. I work on projects like "Anino's Toy Collections" using React.js, Express.js, MongoDB, and MySQL. I'm also an anime fan. Check out my portfolio at lomerio.cloud.--</h3>
+<h3 align="center"> Hi! I'm a curious developer who loves exploring algorithms and JavaScript. I work on projects like "Anino's Toy Collections" using React.js, Express.js, MongoDB, and MySQL. I'm also an anime fan. Check out my portfolio at lomerio.cloud.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
