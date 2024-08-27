@@ -5,7 +5,7 @@
 
 - My **[Portfolio](https://www.lomerio.cloud)**
   
-- 🔭 I’m currently working on **Anino's Toy Collections**
+- 🔭 I’m currently working on **Windows 11 - Portfolio**
 
 - 🌱 I’m currently learning **Tailwind, React js**
 
