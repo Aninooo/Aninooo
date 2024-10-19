@@ -5,18 +5,8 @@
 <p align="center">
   <a href="https://toy-store-sooty.vercel.app/">
     <img src="https://img.shields.io/badge/%20%20Toy%20Store-FF4081?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Our Toy Store" />
-  </a> the toy store only
+  </a>
 </p>
 
-
-[![Visit Our Toy Store](https://img.shields.io/badge/%20%20Toy%20Store-FF4081?style=for-the-badge&logo=vercel&logoColor=white)](https://toy-store-sooty.vercel.app/)
-
-
-
-
-
-
-
-
 <img width="100" height="304" class="img-responsive" src="https://giffiles.alphacoders.com/220/220417.gif" alt="Anime One Piece Gif" title="Anime One Piece Gif">
-<a href="https://app.daily.dev/bryannlomerio"><img src="https://api.daily.dev/devcards/v2/mHO04tNYIlQwbivbCY7Am.png?type=wide&r=fd3" width="652" alt="Bryan N. Lomerio's Dev Card"/></a>
+<a href="https://app.daily.dev/bryannlomerio"><img src="https://api.daily.dev/devcards/v2/mHO04tNYIlQwbivbCY7Am.png?type=wide&r=fd3" width="300" alt="Bryan N. Lomerio's Dev Card"/></a>
