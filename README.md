@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background-color: #f0f0f0; padding: 10px;">
   <a href="https://www.linkedin.com/in/bryan-lomerio-26562123a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/%20%20Toy%20Store-FF4081?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Our Toy Store" />
   </a>
 </p>
+
 
 <p align="center" style="margin: 0;">
   <a href="https://app.daily.dev/bryannlomerio">
