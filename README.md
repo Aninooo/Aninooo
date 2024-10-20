@@ -8,15 +8,3 @@
   <a href="https://www.youtube.com/@bryanlomerio2762"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://app.daily.dev/bryannlomerio"><img src="https://img.shields.io/badge/daily.dev-0A0A0A?style=for-the-badge&logo=daily.dev&logoColor=white" alt="daily.dev"></a>
 </div>
-
-
-<p align="center">
-  <a href="https://toy-store-sooty.vercel.app/">
-    <img src="https://img.shields.io/badge/%20%20Toy%20Store-FF4081?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Our Toy Store" />
-  </a>
-</p>
-<p align="center" style="margin: 0;">
-  <a href="https://app.daily.dev/bryannlomerio">
-    <img src="https://api.daily.dev/devcards/v2/mHO04tNYIlQwbivbCY7Am.png?type=wide&r=fd3" width="550" alt="Bryan N. Lomerio's Dev Card" style="display: block; margin: 0 auto;">
-  </a>
-</p>
