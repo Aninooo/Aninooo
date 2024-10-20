@@ -5,7 +5,6 @@
   <a href="https://www.buymeacoffee.com/aninooo"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
   <a href="https://www.youtube.com/@bryanlomerio2762"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://app.daily.dev/bryannlomerio"><img src="https://img.shields.io/badge/daily.dev-0A0A0A?style=for-the-badge&logo=daily.dev&logoColor=white" alt="daily.dev"></a>
-  <a href="https://www.adovelopers.cloud/"><img src="https://img.shields.io/badge/%20AdoVelopers-0077B5?style=for-the-badge&logo=cloud&logoColor=white" alt="AdoVelopers"></a>
 </div>
 
 
