@@ -6,5 +6,4 @@
   <a href="https://www.lomerio.cloud"><img src="https://img.shields.io/badge/Portfolio-006d32?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.buymeacoffee.com/aninooo"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-006d32?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee"></a>
   <a href="https://app.daily.dev/bryannlomerio"><img src="https://img.shields.io/badge/daily-006d32?style=for-the-badge&logo=daily.dev&logoColor=white" alt="daily"></a>
-
 </div>
