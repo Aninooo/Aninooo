@@ -1,7 +1,6 @@
 <div align="center">
 ```javascript
 const outcomes = { Win: 0, Fail: Infinity };
-
 console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);
 </div> ```
 
