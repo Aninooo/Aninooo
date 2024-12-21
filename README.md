@@ -1,6 +1,6 @@
 <div align="center">
-<pre> ``` const outcomes = { Win: 0, Fail: Infinity };
- console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`); ``` </pre>
+<pre> const outcomes = { Win: 0, Fail: Infinity };
+ console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`); </pre>
 </div>
 
 <div align="center">
