@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%; display: flex; justify-content: center;">
-  <pre style="margin-left: 0; text-align: left;">const outcomes = { Win: 0, Fail: Infinity };
+  <pre style="display: flex; flex-direction: start; left: 0; text-align: left;">const outcomes = { Win: 0, Fail: Infinity };
 console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);</pre>
 </div>
 
