@@ -1,8 +1,7 @@
 <div align="center">
-```javascript
 const outcomes = { Win: 0, Fail: Infinity };
 console.log(`Win = ${outcomes.Win} Lessons | Fail = ${outcomes.Fail} Insights`);
-</div> ```
+</div>
 
 <div align="center">
   <img src="https://via.placeholder.com/500x10/FFC300/FFC300?text=" alt="Bottom Yellow Bar" style="width: 100%; display: block; margin: 0;" />
