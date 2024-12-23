@@ -9,7 +9,7 @@
   
  <a href="https://ibb.co/6Y99MYT"/><img src="https://github.com/user-attachments/assets/e5af8e14-5571-4a7e-a5b9-919917325292"/> </a>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/a6a6ba6f-a8fa-4655-9c7c-7c5587af7f0f" height="400" width="700"/>
+<img src="https://github.com/user-attachments/assets/a6a6ba6f-a8fa-4655-9c7c-7c5587af7f0f" height="400"/>
 </div>
 
 <div align="center">
