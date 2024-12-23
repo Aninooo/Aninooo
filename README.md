@@ -9,9 +9,6 @@
   
  <a href="https://ibb.co/6Y99MYT"/><img src="https://github.com/user-attachments/assets/e5af8e14-5571-4a7e-a5b9-919917325292"/> </a>
 
-
-![anino](https://github.com/user-attachments/assets/e5af8e14-5571-4a7e-a5b9-919917325292)
-
 <div align="center">
   <a href="https://app.daily.dev/aninodev"><img src="https://api.daily.dev/devcards/v2/ig42BA1H0Wxa8gfKJ42Fy.png?type=default&r=dgd" width="356" alt="AninoDev's Dev Card"/></a>
 </div>
