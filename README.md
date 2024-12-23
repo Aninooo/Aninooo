@@ -7,6 +7,13 @@
     </div>
    <img src="https://via.placeholder.com/500x10/FFC300/FFC300?text=" alt="Bottom Yellow Bar" style="width: 100%; display: block; margin: 0;" />
 </div>
+const outcomes = { Win: 0, Fail: Infinity };
+
+console.log(
+  `Win = ${outcomes.Win === 0 ? 'No Lessons' : outcomes.Win} | Fail = ${
+    outcomes.Fail === Infinity ? 'Valuable Insight or Infinity' : outcomes.Fail
+  }`
+);
 
 <div align="center">
   <a href="https://app.daily.dev/aninodev"><img src="https://api.daily.dev/devcards/v2/ig42BA1H0Wxa8gfKJ42Fy.png?type=default&r=dgd" width="356" alt="AninoDev's Dev Card"/></a>
