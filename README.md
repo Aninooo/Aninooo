@@ -7,7 +7,7 @@
     </div>
    <img src="https://via.placeholder.com/500x10/FFC300/FFC300?text=" alt="Bottom Yellow Bar" style="width: 100%; display: block; margin: 0;" />
   
- <a href="https://ibb.co/6Y99MYT"/> </a>>
+ <a href="https://ibb.co/6Y99MYT"/><img src="https://ibb.co/6Y99MYT"/> </a>
 
 
 
