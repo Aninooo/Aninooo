@@ -1,4 +1,4 @@
-![Your Contributions](https://github.com/Aninooo/github-contribution-graph.svg)
+<a href="https://app.daily.dev/aninodev"><img src="https://api.daily.dev/devcards/v2/ig42BA1H0Wxa8gfKJ42Fy.png?type=default&r=dgd" width="356" alt="AninoDev's Dev Card"/></a>
 
 
 
