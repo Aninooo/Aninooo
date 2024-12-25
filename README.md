@@ -16,8 +16,6 @@
 | ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white) | &nbsp; | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | ![ShadCN](https://img.shields.io/badge/-ShadCN-5D6E76?logo=shadcn&logoColor=white) | &nbsp; | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
 | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) | &nbsp; | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
-
 ![Farm Mode](https://render.gitanimals.org/farms/Aninooo)
 
  <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/BryanLomerio"/>
-   <img src = "https://render.gitanimals.org/lines/BryanLomerio?pet-id=659689337985454193" width="300" height="120"/>
