@@ -19,9 +19,10 @@
 | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) | &nbsp; | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/BryanLomerio"
-  width="600"
-  height="300"
-/>
+  <img 
+    src="https://render.gitanimals.org/farms/BryanLomerio" 
+    width="600" 
+    height="300" 
+    style="background-color: #f0f0f0;" 
+  />
 </a>
