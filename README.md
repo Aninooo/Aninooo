@@ -20,4 +20,4 @@
 ![Farm Mode](https://render.gitanimals.org/farms/Aninooo)
 
  <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/BryanLomerio"/>
-   <img src = "https://render.gitanimals.org/lines/devxb?pet-id=1" width="300" height="120"/>
+   <img src = "https://render.gitanimals.org/lines/Aninooo?pet-id=1" width="300" height="120"/>
