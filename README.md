@@ -18,11 +18,7 @@
 | ![ShadCN](https://img.shields.io/badge/-ShadCN-5D6E76?logo=shadcn&logoColor=white) | &nbsp; | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
 | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) | &nbsp; | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
 
-
-<a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/farms/BryanLomerio"
-    width="600"
-    height="300"
   />
 </a>
