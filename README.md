@@ -18,6 +18,8 @@
 | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) | &nbsp; | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
 
 
-![Farm Mode](https://render.gitanimals.org/farms/Aninooo)
 
- <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/BryanLomerio"/>
+| ![Farm Mode](https://render.gitanimals.org/farms/Aninooo) | &nbsp; | <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/BryanLomerio"/> |
+
+
+ 
