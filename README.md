@@ -19,7 +19,7 @@
 
 
 
-| ![Farm Mode](https://render.gitanimals.org/farms/Aninooo) | &nbsp; | <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/BryanLomerio"/> |
+![Farm Mode](https://render.gitanimals.org/farms/Aninooo) &nbsp;  <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/BryanLomerio"/> 
 
 
  
