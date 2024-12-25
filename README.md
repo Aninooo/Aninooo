@@ -5,7 +5,6 @@
        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aninooo&theme=shadow-orange" alt="GitHub Streak" /></a>
        <!-- <img src="https://media1.tenor.com/m/fw-MBeOxEUEAAAAC/dandadan-ken.gif" alt="Dandadan Ken GIF" style="width: 150px; height: auto; display: block; margin-right: 0;" /> -->
     </div>
-      # Tech Stack
 
 | **Frontend**                                                                 | &nbsp; | **Backend**                                                                 |
 |-------------------------------------------------------------------------------|-------|----------------------------------------------------------------------------|
