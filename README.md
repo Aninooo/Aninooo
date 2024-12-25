@@ -7,7 +7,13 @@
     </div>
    <img src="https://via.placeholder.com/500x10/FFC300/FFC300?text=" alt="Bottom Yellow Bar" style="width: 100%; display: block; margin: 0;" />
   
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/BryanLomerio"
+  width="600"
+  height="300"
+/>
+</a>
 | **Frontend**                                                                 | &nbsp; | **Backend**                                                                 |
 |-------------------------------------------------------------------------------|-------|----------------------------------------------------------------------------|
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | &nbsp; | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)   |
@@ -18,7 +24,7 @@
 | ![ShadCN](https://img.shields.io/badge/-ShadCN-5D6E76?logo=shadcn&logoColor=white) | &nbsp; | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
 | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) | &nbsp; | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
 
- <a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/BryanLomerio"
   width="600"
