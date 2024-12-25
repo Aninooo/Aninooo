@@ -19,3 +19,4 @@
 
 ![Farm Mode](https://render.gitanimals.org/farms/Aninooo)
 
+ <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/BryanLomerio"/>
