@@ -19,7 +19,7 @@
 | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) | &nbsp; | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
 
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://render.gitanimals.org/farms/BryanLomerio">
 <img
   src="https://render.gitanimals.org/farms/BryanLomerio"
   width="600"
@@ -27,15 +27,4 @@
 />
 </a>
 
-<a href="https://github.com/BryanLomerio/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Anino?pet-id=1" width="1000" height="120"/>
-</a>
-<a href="https://github.com/devxb/gitanimals" style="background-image: url('https://render.gitanimals.org/backgrounds/SNOW_GRASS_FIELD'); background-size: cover; display: inline-block; width: 600px; height: 300px;">
-  <img
-    src="https://render.gitanimals.org/farms/BryanLomerio"
-    width="600"
-    height="300"
-    style="position: relative; z-index: 1;"
-  />
-</a>
 
