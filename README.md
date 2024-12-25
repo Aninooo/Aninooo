@@ -22,8 +22,6 @@
 <a href="https://render.gitanimals.org/farms/BryanLomerio">
 <img
   src="https://render.gitanimals.org/farms/BryanLomerio"
-  width="600"
-  height="300"
 />
 </a>
 
