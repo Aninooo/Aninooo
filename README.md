@@ -30,3 +30,6 @@
 <a href="https://github.com/BryanLomerio/gitanimals">
   <img src="https://render.gitanimals.org/lines/Anino?pet-id=1" width="1000" height="120"/>
 </a>
+<a href="https://github.com/BryanLomerio/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Anino"/>
+</a>
