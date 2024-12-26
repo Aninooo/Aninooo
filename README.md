@@ -19,6 +19,6 @@
 
 ![Farm Mode](https://render.gitanimals.org/farms/Aninooo) &nbsp;  <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/BryanLomerio"/> 
 
-
+![wolf gitpet](https://gitpets.fly.dev/api?Aninooo=cassiusfive&petname=lorem+ipsum&theme=light&species=wolf)
  
 <a href="https://app.daily.dev/aninodev"><img src="https://api.daily.dev/devcards/v2/ig42BA1H0Wxa8gfKJ42Fy.png?type=default&r=bg5" width="356" alt="AninoDev's Dev Card"/></a>
