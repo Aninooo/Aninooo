@@ -19,6 +19,23 @@
 
 ![Farm Mode](https://render.gitanimals.org/farms/Aninooo) &nbsp;  <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/BryanLomerio"/> 
 
-![wolf gitpet](https://gitpets.fly.dev/api?Aninooo=cassiusfive&petname=lorem+ipsum&theme=light&species=wolf)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=Anino&theme=dark&species=fox">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=lorem+ipsum&theme=light&species=fox">
+  <img alt="Shows a gitpet" src="https://gitpets.fly.dev/api?Aninooo=cassiusfive&petname=lorem+ipsum&theme=dark&species=fox" width="200px">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=Anino&theme=dark&species=bunny">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=lorem+ipsum&theme=light&species=bunny">
+  <img alt="Shows a gitpet" src="https://gitpets.fly.dev/api?Aninooo=cassiusfive&petname=lorem+ipsum&theme=dark&species=bunny" width="200px">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=Anino&theme=dark&species=wolf">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitpets.fly.dev/api?username=cassiusfive&petname=lorem+ipsum&theme=light&species=wolf">
+  <img alt="Shows a gitpet" src="https://gitpets.fly.dev/api?Aninooo=cassiusfive&petname=lorem+ipsum&theme=dark&species=wolf" width="200px">
+</picture>
+
  
 <a href="https://app.daily.dev/aninodev"><img src="https://api.daily.dev/devcards/v2/ig42BA1H0Wxa8gfKJ42Fy.png?type=default&r=bg5" width="356" alt="AninoDev's Dev Card"/></a>
