@@ -39,3 +39,6 @@
 
  
 <a href="https://app.daily.dev/aninodev"><img src="https://api.daily.dev/devcards/v2/ig42BA1H0Wxa8gfKJ42Fy.png?type=default&r=bg5" width="356" alt="AninoDev's Dev Card"/></a>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aninooo)](https://github.com/anuraghazra/github-readme-stats)
